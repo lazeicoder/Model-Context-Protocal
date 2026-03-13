@@ -1,0 +1,9 @@
+langchain-groq
+langchain-mcp-adapters
+mcp
+langgraph
+langchain
+fastapi
+uvicorn[standard]
+python-dotenv
+langchain-community
